@@ -1,0 +1,15 @@
+C:\codewars\katas\string_ends_with\CSharp\bin\Debug\net9.0\CSharp.exe
+C:\codewars\katas\string_ends_with\CSharp\bin\Debug\net9.0\CSharp.deps.json
+C:\codewars\katas\string_ends_with\CSharp\bin\Debug\net9.0\CSharp.runtimeconfig.json
+C:\codewars\katas\string_ends_with\CSharp\bin\Debug\net9.0\CSharp.dll
+C:\codewars\katas\string_ends_with\CSharp\bin\Debug\net9.0\CSharp.pdb
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\CSharp.AssemblyInfoInputs.cache
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\CSharp.AssemblyInfo.cs
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\CSharp.csproj.CoreCompileInputs.cache
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\CSharp.sourcelink.json
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\CSharp.dll
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\refint\CSharp.dll
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\CSharp.pdb
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\CSharp.genruntimeconfig.cache
+C:\codewars\katas\string_ends_with\CSharp\obj\Debug\net9.0\ref\CSharp.dll
