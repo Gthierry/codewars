@@ -15,14 +15,21 @@ public static class StringEndsWith
         {
             return false;
         }
-        if(str.Length > 0 && ending.Length > 0)
+        
+        if(str.Length >= 0 && ending.Length >= 0)
         {   
-            int textLastIndex = str.Length;
-            int endingLastIndex = ending.Length;
-            for(int i=0; i< endingLastIndex;i++)
+            int textLastIndex =0;
+            if(str.Length > 0)
+                textLastIndex = str.Length-1;
+
+            int endingLastIndex = 0;
+            if(ending.Length >0)
+                endingLastIndex = ending.Length-1;
+                //TODO 
+            for(int i=0; i <= ending.Length-1;i++)
             {
                
-                if (str[textLastIndex-1] == ending[endingLastIndex-1])
+                if (str[textLastIndex] == ending[endingLastIndex])
                 {
                     result = true;
                     endingLastIndex--;
