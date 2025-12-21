@@ -17,19 +17,20 @@ public static class StringEndsWith
         }
         if(text.Length > 0 && ending.Length >0)
         {
-            int negativeIndex = -1;
+            int textLastIndex = text.Length;
+            int endingLastIndex = ending.Length;
             for(int i=0; i< ending.Length;i++)
             {
-                //TODO get the last index of each string with Length
-                if (true)
+               
+                if (text[textLastIndex] == ending[endingLastIndex])
                 {
                     result = true;
-                    negativeIndex--;
+                    endingLastIndex--;
                 }
-                // else
-                // {
-                //     result =false;
-                // }
+                else
+                {
+                    result =false;
+                }
             }
             
         }
