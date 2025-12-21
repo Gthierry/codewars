@@ -7,25 +7,26 @@ namespace CSharp;
 
 public static class StringEndsWith
 {
-    public static bool String_Ends_With(string text,string ending)
+    public static bool String_Ends_With(string str,string ending)
     {
 
         bool result =false;
-        if(text.Length < ending.Length)
+        if(str.Length < ending.Length)
         {
             return false;
         }
-        if(text.Length > 0 && ending.Length >0)
-        {
-            int textLastIndex = text.Length;
+        if(str.Length > 0 && ending.Length > 0)
+        {   
+            int textLastIndex = str.Length;
             int endingLastIndex = ending.Length;
-            for(int i=0; i< ending.Length;i++)
+            for(int i=0; i< endingLastIndex;i++)
             {
                
-                if (text[textLastIndex] == ending[endingLastIndex])
+                if (str[textLastIndex-1] == ending[endingLastIndex-1])
                 {
                     result = true;
                     endingLastIndex--;
+                    textLastIndex--;
                 }
                 else
                 {
