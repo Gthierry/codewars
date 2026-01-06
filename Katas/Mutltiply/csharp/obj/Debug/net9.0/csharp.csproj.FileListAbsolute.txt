@@ -1,0 +1,15 @@
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\csharp.AssemblyInfoInputs.cache
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\csharp.AssemblyInfo.cs
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\csharp.csproj.CoreCompileInputs.cache
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\csharp.sourcelink.json
+C:\codewars\katas\Mutltiply\csharp\bin\Debug\net9.0\csharp.exe
+C:\codewars\katas\Mutltiply\csharp\bin\Debug\net9.0\csharp.deps.json
+C:\codewars\katas\Mutltiply\csharp\bin\Debug\net9.0\csharp.runtimeconfig.json
+C:\codewars\katas\Mutltiply\csharp\bin\Debug\net9.0\csharp.dll
+C:\codewars\katas\Mutltiply\csharp\bin\Debug\net9.0\csharp.pdb
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\csharp.dll
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\refint\csharp.dll
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\csharp.pdb
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\csharp.genruntimeconfig.cache
+C:\codewars\katas\Mutltiply\csharp\obj\Debug\net9.0\ref\csharp.dll
